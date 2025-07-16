@@ -7,7 +7,7 @@
 
 ## 📘 Project Overview
 
-This project was developed as part of the AI elective at Hochschule Ansbach by Riddhiben Kumbhani and Jenil Lunagariya (MSc Applied Biotechnology), under the supervision of Prof. Dr. Sibylle Gaisser.
+This project was developed as part of the AI elective at Hochschule Ansbach by Riddhiben Dilipbhai Kumbhani and Jenil Dilipbhai Lunagariya (MSc Applied Biotechnology), under the supervision of Prof. Dr. Sibylle Gaisser.
 
 Our aim is to create beginner-friendly, scientifically accurate Biopython case studies to help students learn how to apply Python to pharmaceutical and bioinformatics tasks — even with no prior coding experience.
 
@@ -46,11 +46,6 @@ We developed two practical case studies based on real-world bioinformatics workf
 |------|-------------|
 | `Case_Study_Student.ipynb` | Full working version for beginners |
 | `Case_Study_Interactive.ipynb` | Active-learning version with TODOs |
-| `images/` | Screenshots from outputs (GC plots, protein views) |
-| `README.md` | This file |
-| `report_draft.pdf` | Final academic report (optional) |
-| `declarations/` | AI + statutory declaration forms (optional) |
-
 ---
 
 ## 📸 Sample Output
@@ -76,7 +71,7 @@ If you are a professional in bioinformatics, biotechnology, or education, we wou
 - Any improvements or ideas?
 
 Even a quick comment would be helpful!  
-[Contact: your.email@domain.com]
+[Contact: lunagariya22164@hs-ansbach.de]
 
 ---
 
